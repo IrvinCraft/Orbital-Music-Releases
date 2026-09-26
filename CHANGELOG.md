@@ -310,4 +310,15 @@ Todas las novedades y correcciones de Orbital Music, de la más reciente a la m�
 
 ---
 
+## Créditos de Desarrollo con IA
+
+El **100% del código** de Orbital Music fue generado por inteligencia artificial, bajo la dirección, diseño y mantenimiento de **IrvinCraft**.
+
+- **OpenCode / Big Pickle** — Asistente principal de desarrollo
+- **DeepSeek V4** — Modelo de lenguaje de asistencia
+- **Gemini** — Modelo de lenguaje colaborador
+- **Otras IA de desarrollo** — Colaboración en distintas fases del proyecto
+
+---
+
 *Mantenido por IrvinCraft y AI-Enhanced Developer.*
