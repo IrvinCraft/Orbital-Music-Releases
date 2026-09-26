@@ -317,7 +317,12 @@ El **100% del código** de Orbital Music fue generado por inteligencia artificia
 - **OpenCode / Big Pickle** — Asistente principal de desarrollo
 - **DeepSeek V4** — Modelo de lenguaje de asistencia
 - **Gemini** — Modelo de lenguaje colaborador
-- **Otras IA de desarrollo** — Colaboración en distintas fases del proyecto
+- **ChatGPT (OpenAI)** — Diseño de logos y recursos visuales
+- **Claude (Anthropic)** — Apoyo con la lógica de desarrollo
+
+### Beta Testers
+- **Noe Ivan Ramirez Ramos**
+- **Carlos Alberto Barrera Galvez**
 
 ---
 
