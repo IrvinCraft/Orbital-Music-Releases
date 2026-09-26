@@ -315,6 +315,7 @@ Todas las novedades y correcciones de Orbital Music, de la más reciente a la m�
 Orbital Music es un **port a escritorio de Metrolist** (cliente de YouTube Music, GPL v3.0) — el código base interno proviene de ese proyecto. Todo el desarrollo de este port (adaptaciones, nuevas funcionalidades y mantenimiento) fue realizado **con asistencia de IA**, bajo la dirección, diseño y mantenimiento de **IrvinCraft**.
 
 - **OpenCode / Big Pickle** — Asistente principal de desarrollo
+- **Antigravity IDE** — Programador, desarrollo y lógica
 - **DeepSeek V4** — Modelo de lenguaje de asistencia
 - **Gemini** — Modelo de lenguaje colaborador
 - **ChatGPT (OpenAI)** — Diseño de logos y recursos visuales
